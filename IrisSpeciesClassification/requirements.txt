@@ -1,0 +1,3 @@
+Python3
+Jupyter Notebook
+Packages : Numpy, Pandas, Scikit Learn, Matplotlob, Seaborn, Tensorflow, Keras
