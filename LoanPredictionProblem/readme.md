@@ -14,4 +14,4 @@ Pre-Requisite
 In this solution we have used Logistic Regression Alogrithm.
 
 
-We'll udpate the solution after trying with aother algorithms.
+We'll udpate the solution after trying with other algorithms.
